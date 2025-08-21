@@ -7,3 +7,4 @@
 "print('Hello from new feature')"
 "print('Hello from PR practice branch!')"
 "print('Hello from master branch')"
+"print('Hello from conflict branch')"
