@@ -4,3 +4,4 @@
 "print('Hello from PR branch')"
 "print('Hello from master branch!')"
 "print('Hello world')"
+"print('Hello from new feature')"
