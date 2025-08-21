@@ -10,3 +10,4 @@
 "print('Hello from conflict branch')"
 "print('Hello from feature branch')"
 "print('Hello from feature branch ver1.01')"
+"print('Hello from master branch')"
