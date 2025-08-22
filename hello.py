@@ -17,3 +17,4 @@
 "print('Hello from master branch ver1.03')"
 "print('Hello from master branch ver1.04')"
 "print('Hello from local')"
+"print('Hello from localize')"
